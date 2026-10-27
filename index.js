@@ -11,7 +11,7 @@ const resultado = `preço do produto = ${preco}
 quantidade de produto adicionado no carrinho = ${quantidade}
 valor total = ${total}`
 
-
+console.log(resultado)
 
 const renan1 = {
     name:"renan" , 
@@ -33,3 +33,10 @@ const renan2 = {
 }
 
 console.log (renan2)
+
+const user = {
+    nome:'renan',
+    idade:21 ,
+    nomeDoConjuge: null
+
+}

@@ -86,8 +86,23 @@ const renan = {
     }
 }
 
+5.Null & Undefined -> Nulo & Indefinido .
+- null é como uma garrafa vazia que você deixou vazia de propósito, no codigo tipo o id do user nao sei agr ele ,coloco como null de proposito , tipo deixa vazio , que dps eu faço.
+                               
+
+                                const user = {
+                                nome:'renan',
+                                idade:21 ,
+                                nomeDoConjuge: null
+
+}
 
 
+- undefined é como tentar procurar algo que não existe.
+                        exemplos:
+                console.log(user.altura) // quando eu rodar esse codigo vai me voltar um Undefined.//
+
+            
 
 if => Se 
 else => se nao
