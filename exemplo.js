@@ -72,9 +72,19 @@ const renan = {
     address:"rua neymar junior, numero 10 "
 }
 
-otimiza  muito o codigo .
+otimiza  muito o codigo, e tbm podemos colocar objetos dentro de outro objeto exemplo do endereço.
 
-
+const renan = {
+    name:"renan" , 
+    age: 21 ,
+    address: {
+        street: 'neymar junior' ,
+        number: 10 ,
+        city: 'santos' ,
+        state: 'sp',
+        country: 'brasil'
+    }
+}
 
 
 

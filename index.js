@@ -13,9 +13,23 @@ valor total = ${total}`
 
 
 
-const renan = {
+const renan1 = {
     name:"renan" , 
     age: 21 ,
     address:"rua neymar junior, numero 10 "
 }
-console.log (renan)
+console.log (renan1)
+
+const renan2 = {
+    name:"renan" , 
+    age: 21 ,
+    address: {
+        street: 'neymar junior' ,
+        number: 10 ,
+        city: 'santos' ,
+        state: 'sp',
+        country: 'brasil'
+    }
+}
+
+console.log (renan2)
