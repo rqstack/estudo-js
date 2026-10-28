@@ -1,4 +1,5 @@
 //tipo de dados//
+
 const abacate = 40
 const myString = `minha idade é ${abacate}, to ficando velho .`
 
@@ -40,3 +41,9 @@ const user = {
     nomeDoConjuge: null
 
 }
+//estrutura de dados
+const myArray = [20, 30,130,]
+
+
+myArray [1]= 510
+console.log (myArray[1])

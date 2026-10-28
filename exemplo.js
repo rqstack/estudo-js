@@ -101,8 +101,14 @@ const renan = {
 - undefined é como tentar procurar algo que não existe.
                         exemplos:
                 console.log(user.altura) // quando eu rodar esse codigo vai me voltar um Undefined.//
-
-            
+     
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+                        estrutura de dados
+ 
+1.Array -> Vetor -> Matriz
+o array serve para eu guarda varios tipos de dados em um lugar só.
+                     exemplo:
+                const myArray = [20,30,"ola js",{name: "renan", age: 30}]
 
 if => Se 
 else => se nao
