@@ -145,4 +145,17 @@ Operadores de comparação
     5==5 = true
 
 
+funtions /  funções 
+    Trechode codigo que é executado somente quando solicitado 
+    Functions (funções)** são blocos de código criados para executar uma tarefa específica e podem ser reutilizados várias vezes.
+    Usamos `function` para criar uma função e damos um nome para ela.
+    O código dentro da função só é executado quando ela é chamada pelo nome seguido de `()`.
+    As funções podem receber informações (parâmetros) e também retornar resultados usando `return`.
+    Elas ajudam a organizar o código e evitam repetições.
+
+    function nomeNey() {
+  console.log("neymar");
+}
+nomeNey();
+
 */
