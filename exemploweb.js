@@ -11,7 +11,10 @@ getElemantByName -> tras todos elementos com esse name
 querySelector -> Tras um elementos , o primeiro que  encontrar 
 querySelectorAll -> tras todos elementos que encontrar.
 
+para puxar algo no html devemos usar docment.
+exemplo quero puxar um id :
 
+document.getElementById("main-ipunt")
 
 
 
