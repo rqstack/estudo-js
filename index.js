@@ -47,3 +47,23 @@ const myArray = [20, 30,130,]
 
 myArray [1]= 510
 console.log (myArray[1])
+
+let idade = 18;
+
+if (idade >= 18) {
+    console.log("Maior de idade");
+} else {
+    console.log("Menor de idade");
+}
+
+const senhaDouser = 12234
+const senhaDigitada=12238
+
+if(senhaDouser==senhaDigitada){
+    console.log('bem vindo ')
+    
+    
+}
+    else {
+        console.log('senha incorreta')
+    }

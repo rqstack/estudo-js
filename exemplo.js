@@ -110,7 +110,39 @@ o array serve para eu guarda varios tipos de dados em um lugar só.
                      exemplo:
                 const myArray = [20,30,"ola js",{name: "renan", age: 30}]
 
-if => Se 
-else => se nao
+if => (Se ) -> se tal coisa acontecer faça isso .
+else => (se nao)-> se nao faça isso.
+
+if e else servem para tomar decisões no código: o if executa algo se a condição for verdadeira, e o else executa outra coisa se for falsa.
+Os operadores de comparação comparam valores: > maior, < menor, >= maior ou igual, <= menor ou igual, == igual e != diferente.
+Exemplo: if (idade >= 18) verifica se a pessoa tem 18 anos ou mais.
+Se for verdadeiro, executa o if; caso contrário, executa o else.
+
+let idade = 18;
+
+if (idade >= 18) {
+    console.log("Maior de idade");
+} else {
+    console.log("Menor de idade");
+}
+
+Operadores de comparação 
+
+    > maior que 
+    < menor que 
+    == igual que 
+
+    exemplo: esse numero 10 é maior que esse numero 5 ?
+
+    10>5 = true 
+
+    o numero 10 e menor que 5? 
+
+    10<5 = false
+
+    o 5 e igual a 5 ?
+
+    5==5 = true
+
 
 */
