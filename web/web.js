@@ -1,3 +1,3 @@
-const ipunt = document.getElementById("main-input");
-ipunt.placeholder;
-console.log(ipunt);
+const ipunt = document.querySelector();
+ipunt.placeholder = "seu burro digita logo";
+console.log(ipunt.placeholder);
