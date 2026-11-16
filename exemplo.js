@@ -4,7 +4,7 @@
 
 2. Algoritmo -> Sequência de logica para fazer alguma coisa .
   
-EXEMPLO:Algoritmo para fazer cafe 
+EXEMPLO:Algoritmo para fazer  cafe 
 
 SE a cafeteira estiver naa tomada, seguir para o proximo passo.
 SE NÃO, ligá-la na tomada.
